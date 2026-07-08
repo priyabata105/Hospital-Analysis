@@ -182,7 +182,7 @@ Displays the age distribution of patients.
 ---
 
 ## 👨‍💻 Author
-
-Omar Ahmed
+Priyabara Patra
 
 Data Analyst | SQL | Python | Pandas | Power BI | Excel
+ 
